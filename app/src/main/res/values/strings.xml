@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Stage</string>
+
+    <string name="higgest_rate">RATING</string>
+    <string name="most_popular">POPULARITY</string>
+
+    <string name="rating_information">Sorting By Rating</string>
+    <string name="popularity_information">Sorting By Popularity</string>
+    <string name="vote_max">/10</string>
+</resources>
